@@ -1,0 +1,12 @@
+nomor 5
+ya script berjalan dengan normal dan nama user yang muncul konsisten dan sama dengan data 
+pada script php yang dihardcode
+
+nomor 6
+Setelah melakukan logout maka akan dikembalikan kembali ke login. dan jika mengakses page1, page2 dan page3
+via url maka akan terjadi error ketika membaca session yang namauser karena session belum dibuat pada script 
+proses.php
+
+nomor 3 keg 2
+tidak bisa
+
